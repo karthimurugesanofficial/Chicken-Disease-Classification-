@@ -21,7 +21,7 @@ setuptools.setup(
     long_description_content="text/markdown",
     url=f'http://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}',
     project_urls={
-        "Bus Tracker":f"http://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
+        "Bug Tracker":f"http://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
     package_dir={"":"src"},
     packages=setuptools.find_packages(where="src")

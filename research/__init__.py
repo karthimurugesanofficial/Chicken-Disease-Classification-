@@ -1,0 +1,1 @@
+artifacts_root='/Users/karthimurugesan/Chicken-Disease-Classification-/research/01_data_ingestion.ipynb'
